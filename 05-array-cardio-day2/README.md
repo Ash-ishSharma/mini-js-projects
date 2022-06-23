@@ -1,6 +1,7 @@
 # Objective
 
 Some more array prototype methods.<br>
+[Open Live Preview](https://ash-ishsharma.github.io/mini-js-projects/05-array-cardio-day2/)
 
 ## Things Learned
 
